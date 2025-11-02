@@ -43,7 +43,6 @@ Check the **PORTS** tab for a forwarded VNC link, typically on port `6080`.
 Click the forwarded address — it opens a Linux desktop in your browser:
 ![noVNC port forwarding](images/3_1.jpg)
 
-![VNC directory listing](images/3_2.jpg)
 
 Use this environment to visualize ngspice plots and waveforms interactively.
 
@@ -52,6 +51,7 @@ Use this environment to visualize ngspice plots and waveforms interactively.
 ## 4. Navigate to Workshop Files
 
 Switch to your workspace folder:
+![VNC directory listing](images/3_2.jpg)
 
 ```bash
 cd /workspaces/vsd-cmos
