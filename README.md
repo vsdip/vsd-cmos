@@ -54,7 +54,7 @@ Use this environment to visualize ngspice plots and waveforms interactively.
 ## 4. Navigate to Workshop Files
 
 Switch to your workspace folder:
-![VNC directory listing](images/3_2.jpg)
+
 
 ```bash
 cd /workspaces/vsd-cmos
@@ -62,8 +62,9 @@ ls -ltr
 ```
 
 You’ll see the folder `sky130CircuitDesignWorkshop/` that contains design files.
-![workspace layout](images/4.jpg)
 
+
+![VNC directory listing](images/3_2.jpg)
 ---
 
 ## 5. Run SPICE Simulations (with Plot Output)
@@ -74,6 +75,9 @@ Move into the design folder and execute any `.spice` file:
 cd /workspaces/vsd-cmos/sky130CircuitDesignWorkshop/design
 ngspice day1_nfet_idvds_L2_W5.spice
 ```
+
+![workspace layout](images/4.jpg)
+
 
 This opens an ngspice waveform window in the GUI (via noVNC).
 ![ngspice simulation result](images/5.jpg)
