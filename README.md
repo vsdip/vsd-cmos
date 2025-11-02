@@ -37,10 +37,12 @@ If ngspice exits successfully, your setup is ready.
 
 This Codespace comes with a full **graphical desktop environment** accessible through **noVNC**.
 Check the **PORTS** tab for a forwarded VNC link, typically on port `6080`.
+
 ![ngspice terminal view](images/2_2.jpg)
 
 
 Click the forwarded address — it opens a Linux desktop in your browser:
+
 ![noVNC port forwarding](images/3_1.jpg)
 
 
