@@ -42,7 +42,7 @@ Check the **PORTS** tab for a forwarded VNC link, typically on port `6080`.
 ![ngspice terminal view](images/2_2.jpg)
 
 
-Click the forwarded address — it opens a Linux desktop in your browser:
+Click the forwarded address and click on "**vnc_lite.html**" as shown in below image — it opens a Linux desktop in your browser:
 
 ![noVNC port forwarding](images/3_1.jpg)
 
